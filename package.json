@@ -1,0 +1,10 @@
+{
+  "name": "flussodilavoro",
+  "version": "1.0.1",
+  "description": "Lavorare con flussi di lavoro automatizzati",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Giovanni Aversa"
+}
